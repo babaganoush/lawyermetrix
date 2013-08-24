@@ -1,0 +1,4 @@
+main_data_import:
+    resource: "@MainDataImportBundle/Resources/config/routing.yml"
+    prefix:   /
+

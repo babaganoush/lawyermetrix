@@ -1,0 +1,9 @@
+main_data_import_homepage:
+    pattern:  /
+    defaults: { _controller: MainDataImportBundle:Default:index }
+
+
+
+main_data_import_county:
+    pattern:  /import/county/{county}
+    defaults: { _controller: MainDataImportBundle:Default:import }

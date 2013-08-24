@@ -1,0 +1,7 @@
+parameters:
+#    main_data_import.example.class: Main\DataImportBundle\Example
+
+services:
+#    main_data_import.example:
+#        class: %main_data_import.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
